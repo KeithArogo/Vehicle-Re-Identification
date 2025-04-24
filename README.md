@@ -1,6 +1,6 @@
 ```markdown
 ![Vehicle ReID](https://img.shields.io/badge/Task-Vehicle_ReID-blue) ![Python](https://img.shields.io/badge/Python-3.8%2B-green) ![Deep Learning](https://img.shields.io/badge/Framework-PyTorch/TensorFlow-orange)
-
+```
 ## Overview
 
 This project implements a **Vehicle Re-Identification (ReID)** system using the **VeRi dataset**, designed to match vehicles across non-overlapping camera views. The Jupyter Notebook provides a complete pipeline from environment setup to model evaluation in Google Colab with GPU acceleration.
